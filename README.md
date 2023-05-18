@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kopo Ntheledi</h1>
 <h3 align="center">A passionate JavaScript full stack developer</h3>
-<br>
+
 <h3> I am a young vibrant lady who is always keen on learning new skills in the engineering field, in other words I am a go-getter, nothing will stop me from reaching all my goals. During my matric year, I lost my mother, it was a difficult time for me but I did not let in affect my studies because I knew that my mother would've loved me to finish my matric and that is what pushed me further, it is what enforced the fact that I am a go-getter, I just needed to see it for myself than listening to people telling me. Before coming to  Bafokeng Code Lab I was an Electrical Engineering student and I saw that in the software department there are many opportunities above all engineering fields so I decided to give it a try and so far I am loving it. I have already set my long term goals which is being a Full Stack JavaScript Developer and while still learning to achieve other skills I gained in my Electrical Engineering studies I will add them to my Software development studies.</h3>
 
 
