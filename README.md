@@ -1,17 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Kopo Ntheledi</h1>
-<h3 align="center">A passionate JavaScript full stack developer</h3>
+<h3 align="center">A passionate Entry-level Software Developer with a knack for problem-solving and a love for building innovative solutions.</h3>
 
-<h3> I am a young vibrant lady who is always keen on learning new skills in the engineering field, in other words I am a go-getter, nothing will stop me from reaching all my goals. During my matric year, I lost my mother, it was a difficult time for me but I did not let in affect my studies because I knew that my mother would've loved me to finish my matric and that is what pushed me further, it is what enforced the fact that I am a go-getter, I just needed to see it for myself than listening to people telling me. Before coming to  Bafokeng Code Lab I was an Electrical Engineering student and I saw that in the software department there are many opportunities above all engineering fields so I decided to give it a try and so far I am loving it. I have already set my long term goals which is being a Full Stack JavaScript Developer and while still learning to achieve other skills I gained in my Electrical Engineering studies I will add them to my Software development studies.</h3>
+<h3> I'm a recent graduate in software engineering from a bootcamp, currently pursuing additional studies in electrical engineering. My journey in tech has equipped me with a solid foundation in programming, software development, and system design.
+
+Proficient in a variety of programming languages and technologies like JavaScript and it's framework React.js, HTML/CSS, and more. Experienced in full-stack development, with a focus on creating efficient, scalable, and user-friendly applications.
+
+What sets me apart is my dedication to continuous learning and adaptability. I thrive in dynamic environments and enjoy tackling new challenges head-on. Whether it's debugging complex code or exploring cutting-edge technologies, I'm always eager to expand my skill set and push the boundaries of what's possible. </h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/kopontheledi?tab=repositories](https://github.com/kopontheledi?tab=repositories)
 
 - 📫 How to reach me **kopontheledi@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/kopontheledi/KOPNTH962_BCL2302_Benjamin_KopoNtheledi_ITW9](https://github.com/kopontheledi/KOPNTH962_BCL2302_Benjamin_KopoNtheledi_ITW9)
-
-<h3 align="left">Connect with me:</h3>
+- 📄 Know about my experiences, here's my pallet portfolio to look at:
+https://padlet.com/kopontheledi/my-portfolio-ec68w1z15t40vfkt<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kopo-ntheledi-30327021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kopo-ntheledi-30327021b/" height="30" width="40" /></a>
 </p>
